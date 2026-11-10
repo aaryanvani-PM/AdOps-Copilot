@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Regenerate data and check it matches the committed copy
+        run: |
+          python data/generate_data.py
+          git diff --exit-code data/
+      - name: Run tests (no API key needed)
+        run: python -m pytest -q
+      - name: Check the eval harness runs end to end (scripted stand-in model)
+        run: |
+          python -m evals.build_eval_set
+          git diff --exit-code evals/eval_set.jsonl
+          python -m evals.run_evals --model scripted

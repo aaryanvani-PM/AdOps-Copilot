@@ -1,0 +1,493 @@
+{
+  "as_of": "2026-10-30",
+  "placements": {
+    "live_news_primetime": [
+      {
+        "date": "2026-10-31",
+        "forecast_available_impressions": 4377236
+      },
+      {
+        "date": "2026-11-01",
+        "forecast_available_impressions": 3938197
+      },
+      {
+        "date": "2026-11-02",
+        "forecast_available_impressions": 3538298
+      },
+      {
+        "date": "2026-11-03",
+        "forecast_available_impressions": 4493709
+      },
+      {
+        "date": "2026-11-04",
+        "forecast_available_impressions": 3712905
+      },
+      {
+        "date": "2026-11-05",
+        "forecast_available_impressions": 3687118
+      },
+      {
+        "date": "2026-11-06",
+        "forecast_available_impressions": 4173710
+      },
+      {
+        "date": "2026-11-07",
+        "forecast_available_impressions": 4069221
+      },
+      {
+        "date": "2026-11-08",
+        "forecast_available_impressions": 3462979
+      },
+      {
+        "date": "2026-11-09",
+        "forecast_available_impressions": 4411471
+      },
+      {
+        "date": "2026-11-10",
+        "forecast_available_impressions": 3670623
+      },
+      {
+        "date": "2026-11-11",
+        "forecast_available_impressions": 3450873
+      },
+      {
+        "date": "2026-11-12",
+        "forecast_available_impressions": 3662801
+      },
+      {
+        "date": "2026-11-13",
+        "forecast_available_impressions": 3679198
+      },
+      {
+        "date": "2026-11-14",
+        "forecast_available_impressions": 3583156
+      },
+      {
+        "date": "2026-11-15",
+        "forecast_available_impressions": 4444579
+      },
+      {
+        "date": "2026-11-16",
+        "forecast_available_impressions": 4000700
+      },
+      {
+        "date": "2026-11-17",
+        "forecast_available_impressions": 3787540
+      },
+      {
+        "date": "2026-11-18",
+        "forecast_available_impressions": 4307155
+      },
+      {
+        "date": "2026-11-19",
+        "forecast_available_impressions": 4204315
+      },
+      {
+        "date": "2026-11-20",
+        "forecast_available_impressions": 3423106
+      },
+      {
+        "date": "2026-11-21",
+        "forecast_available_impressions": 4318644
+      },
+      {
+        "date": "2026-11-22",
+        "forecast_available_impressions": 3990672
+      },
+      {
+        "date": "2026-11-23",
+        "forecast_available_impressions": 4203570
+      },
+      {
+        "date": "2026-11-24",
+        "forecast_available_impressions": 4236549
+      },
+      {
+        "date": "2026-11-25",
+        "forecast_available_impressions": 4060037
+      },
+      {
+        "date": "2026-11-26",
+        "forecast_available_impressions": 3448156
+      },
+      {
+        "date": "2026-11-27",
+        "forecast_available_impressions": 4107602
+      },
+      {
+        "date": "2026-11-28",
+        "forecast_available_impressions": 3650603
+      },
+      {
+        "date": "2026-11-29",
+        "forecast_available_impressions": 4099287
+      }
+    ],
+    "live_sports": [
+      {
+        "date": "2026-10-31",
+        "forecast_available_impressions": 5112874
+      },
+      {
+        "date": "2026-11-01",
+        "forecast_available_impressions": 6363283
+      },
+      {
+        "date": "2026-11-02",
+        "forecast_available_impressions": 6146849
+      },
+      {
+        "date": "2026-11-03",
+        "forecast_available_impressions": 5762612
+      },
+      {
+        "date": "2026-11-04",
+        "forecast_available_impressions": 6717442
+      },
+      {
+        "date": "2026-11-05",
+        "forecast_available_impressions": 5395522
+      },
+      {
+        "date": "2026-11-06",
+        "forecast_available_impressions": 5483000
+      },
+      {
+        "date": "2026-11-07",
+        "forecast_available_impressions": 6065213
+      },
+      {
+        "date": "2026-11-08",
+        "forecast_available_impressions": 6747361
+      },
+      {
+        "date": "2026-11-09",
+        "forecast_available_impressions": 6439657
+      },
+      {
+        "date": "2026-11-10",
+        "forecast_available_impressions": 5606550
+      },
+      {
+        "date": "2026-11-11",
+        "forecast_available_impressions": 6101272
+      },
+      {
+        "date": "2026-11-12",
+        "forecast_available_impressions": 6019583
+      },
+      {
+        "date": "2026-11-13",
+        "forecast_available_impressions": 5387753
+      },
+      {
+        "date": "2026-11-14",
+        "forecast_available_impressions": 5462854
+      },
+      {
+        "date": "2026-11-15",
+        "forecast_available_impressions": 6193713
+      },
+      {
+        "date": "2026-11-16",
+        "forecast_available_impressions": 5702074
+      },
+      {
+        "date": "2026-11-17",
+        "forecast_available_impressions": 5688704
+      },
+      {
+        "date": "2026-11-18",
+        "forecast_available_impressions": 5568615
+      },
+      {
+        "date": "2026-11-19",
+        "forecast_available_impressions": 5314501
+      },
+      {
+        "date": "2026-11-20",
+        "forecast_available_impressions": 5613687
+      },
+      {
+        "date": "2026-11-21",
+        "forecast_available_impressions": 5151871
+      },
+      {
+        "date": "2026-11-22",
+        "forecast_available_impressions": 6186062
+      },
+      {
+        "date": "2026-11-23",
+        "forecast_available_impressions": 6272535
+      },
+      {
+        "date": "2026-11-24",
+        "forecast_available_impressions": 6021249
+      },
+      {
+        "date": "2026-11-25",
+        "forecast_available_impressions": 5830243
+      },
+      {
+        "date": "2026-11-26",
+        "forecast_available_impressions": 5432697
+      },
+      {
+        "date": "2026-11-27",
+        "forecast_available_impressions": 5174988
+      },
+      {
+        "date": "2026-11-28",
+        "forecast_available_impressions": 6548344
+      },
+      {
+        "date": "2026-11-29",
+        "forecast_available_impressions": 6437064
+      }
+    ],
+    "vod_entertainment": [
+      {
+        "date": "2026-10-31",
+        "forecast_available_impressions": 3336810
+      },
+      {
+        "date": "2026-11-01",
+        "forecast_available_impressions": 2730128
+      },
+      {
+        "date": "2026-11-02",
+        "forecast_available_impressions": 3063186
+      },
+      {
+        "date": "2026-11-03",
+        "forecast_available_impressions": 3222545
+      },
+      {
+        "date": "2026-11-04",
+        "forecast_available_impressions": 3299636
+      },
+      {
+        "date": "2026-11-05",
+        "forecast_available_impressions": 3156785
+      },
+      {
+        "date": "2026-11-06",
+        "forecast_available_impressions": 3347986
+      },
+      {
+        "date": "2026-11-07",
+        "forecast_available_impressions": 3286074
+      },
+      {
+        "date": "2026-11-08",
+        "forecast_available_impressions": 2874844
+      },
+      {
+        "date": "2026-11-09",
+        "forecast_available_impressions": 2598930
+      },
+      {
+        "date": "2026-11-10",
+        "forecast_available_impressions": 3113505
+      },
+      {
+        "date": "2026-11-11",
+        "forecast_available_impressions": 3060161
+      },
+      {
+        "date": "2026-11-12",
+        "forecast_available_impressions": 3345942
+      },
+      {
+        "date": "2026-11-13",
+        "forecast_available_impressions": 2777099
+      },
+      {
+        "date": "2026-11-14",
+        "forecast_available_impressions": 3009989
+      },
+      {
+        "date": "2026-11-15",
+        "forecast_available_impressions": 2828911
+      },
+      {
+        "date": "2026-11-16",
+        "forecast_available_impressions": 2744781
+      },
+      {
+        "date": "2026-11-17",
+        "forecast_available_impressions": 2712827
+      },
+      {
+        "date": "2026-11-18",
+        "forecast_available_impressions": 2850538
+      },
+      {
+        "date": "2026-11-19",
+        "forecast_available_impressions": 2999633
+      },
+      {
+        "date": "2026-11-20",
+        "forecast_available_impressions": 3197947
+      },
+      {
+        "date": "2026-11-21",
+        "forecast_available_impressions": 3197972
+      },
+      {
+        "date": "2026-11-22",
+        "forecast_available_impressions": 2962095
+      },
+      {
+        "date": "2026-11-23",
+        "forecast_available_impressions": 2901678
+      },
+      {
+        "date": "2026-11-24",
+        "forecast_available_impressions": 3228472
+      },
+      {
+        "date": "2026-11-25",
+        "forecast_available_impressions": 3378737
+      },
+      {
+        "date": "2026-11-26",
+        "forecast_available_impressions": 2982158
+      },
+      {
+        "date": "2026-11-27",
+        "forecast_available_impressions": 3087066
+      },
+      {
+        "date": "2026-11-28",
+        "forecast_available_impressions": 3265502
+      },
+      {
+        "date": "2026-11-29",
+        "forecast_available_impressions": 3150321
+      }
+    ],
+    "vod_news_clips": [
+      {
+        "date": "2026-10-31",
+        "forecast_available_impressions": 1697021
+      },
+      {
+        "date": "2026-11-01",
+        "forecast_available_impressions": 1309953
+      },
+      {
+        "date": "2026-11-02",
+        "forecast_available_impressions": 1323267
+      },
+      {
+        "date": "2026-11-03",
+        "forecast_available_impressions": 1275121
+      },
+      {
+        "date": "2026-11-04",
+        "forecast_available_impressions": 1289039
+      },
+      {
+        "date": "2026-11-05",
+        "forecast_available_impressions": 1297512
+      },
+      {
+        "date": "2026-11-06",
+        "forecast_available_impressions": 1280045
+      },
+      {
+        "date": "2026-11-07",
+        "forecast_available_impressions": 1398404
+      },
+      {
+        "date": "2026-11-08",
+        "forecast_available_impressions": 1275004
+      },
+      {
+        "date": "2026-11-09",
+        "forecast_available_impressions": 1475277
+      },
+      {
+        "date": "2026-11-10",
+        "forecast_available_impressions": 1602936
+      },
+      {
+        "date": "2026-11-11",
+        "forecast_available_impressions": 1707543
+      },
+      {
+        "date": "2026-11-12",
+        "forecast_available_impressions": 1318754
+      },
+      {
+        "date": "2026-11-13",
+        "forecast_available_impressions": 1440622
+      },
+      {
+        "date": "2026-11-14",
+        "forecast_available_impressions": 1565597
+      },
+      {
+        "date": "2026-11-15",
+        "forecast_available_impressions": 1711923
+      },
+      {
+        "date": "2026-11-16",
+        "forecast_available_impressions": 1608830
+      },
+      {
+        "date": "2026-11-17",
+        "forecast_available_impressions": 1442769
+      },
+      {
+        "date": "2026-11-18",
+        "forecast_available_impressions": 1400990
+      },
+      {
+        "date": "2026-11-19",
+        "forecast_available_impressions": 1569131
+      },
+      {
+        "date": "2026-11-20",
+        "forecast_available_impressions": 1408861
+      },
+      {
+        "date": "2026-11-21",
+        "forecast_available_impressions": 1290746
+      },
+      {
+        "date": "2026-11-22",
+        "forecast_available_impressions": 1329034
+      },
+      {
+        "date": "2026-11-23",
+        "forecast_available_impressions": 1338827
+      },
+      {
+        "date": "2026-11-24",
+        "forecast_available_impressions": 1480617
+      },
+      {
+        "date": "2026-11-25",
+        "forecast_available_impressions": 1694510
+      },
+      {
+        "date": "2026-11-26",
+        "forecast_available_impressions": 1717477
+      },
+      {
+        "date": "2026-11-27",
+        "forecast_available_impressions": 1686554
+      },
+      {
+        "date": "2026-11-28",
+        "forecast_available_impressions": 1329146
+      },
+      {
+        "date": "2026-11-29",
+        "forecast_available_impressions": 1561519
+      }
+    ]
+  }
+}
